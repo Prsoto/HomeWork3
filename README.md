@@ -2,7 +2,9 @@
 
 This Week we are required to deliver a HomeWork which we create a PassWord Generator
 
-For the HTML and CSS I have used the Files given and for the JS we have a started Code from which I include my code
+For the HTML and CSS I have used the Files given and for the JS we have a started Code from which I include my code.
+
+HomeWork Submitted on 03/23/22
 
 ## Goal 
 
@@ -19,7 +21,7 @@ The following image shows the web application's appearance and functionality:
 
 # Links 
 
-     Repository Link https://github.com/Prsoto/HomeWork3
+     Repository Link   (https://github.com/Prsoto/HomeWork3)
      
-     Live Link https://prsoto.github.io/HomeWork3/
+     Live Link         (https://prsoto.github.io/HomeWork3/)
      
